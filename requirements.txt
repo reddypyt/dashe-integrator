@@ -1,0 +1,16 @@
+--extra-index-url=https://insights.infosource.ai/packages
+dash==2.9.3
+dash-design-kit==1.7.0
+gunicorn==20.1.0
+pandas==2.0.1
+snowflake-connector-python==3.0.4
+flask-caching==2.0.2
+dash[diskcache]
+dash[celery]
+dash-bootstrap-components==1.4.1
+numpy==1.24.3
+psycopg==3.1.9
+SQLAlchemy==2.0.13
+redis==4.5.5
+Flask==2.3.2
+alembic==1.11.1
